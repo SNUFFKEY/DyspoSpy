@@ -1,0 +1,1 @@
+I will be updating this code as it may have some unknown bugs and I also want to add new links so it can check more places. There is alot of ideas that I have and I want to hopefully implement them into this program.
