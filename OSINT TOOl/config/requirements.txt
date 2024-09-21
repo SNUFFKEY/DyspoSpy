@@ -1,0 +1,6 @@
+webbrowser
+phonenumbers
+selenium
+colorama
+requests
+holehe
